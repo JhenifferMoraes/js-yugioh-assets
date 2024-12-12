@@ -25,13 +25,13 @@ Abaixo, deixarei alguns links para downloads oficiais de tudo o que foi utilizad
 ```
 ### 🪄 Imagens do Projeto
 
-### Aba principal do Game
+### Aba principal do Game:
 <img width=100% src="./src/assets/imgs/yugioh.jpg"/>
 
-### Ao vencer
+### Ao vencer:
 <img width=100% src="./src/assets/imgs/yugiohwin.jpg"/>
 
-### Ao perder
+### Ao perder:
 <img width=100% src="./src/assets/imgs/yugiohlose.jpg"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=55038f&height=100&section=footer"/>
